@@ -14,7 +14,7 @@ Oyuna geçen günlerde menü sistemini ekledim.
 Ayrıca oyun bittiğinde veya öldüğümüzde bu ekran geliyor ve skorumuz ekranda görünüyor.
 <img width="587" alt="endscene" src="https://user-images.githubusercontent.com/91378682/173677737-a6374686-421d-4530-845e-62f4490d421d.png">
 
-Escape tuşunu bastığımızda pause ekranı giriyor, müzik durmuyor ama diğer her şey duruyor.
+#Escape tuşunu bastığımızda pause ekranı giriyor, müzik durmuyor ama diğer her şey duruyor.
 <img width="592" alt="pause menu" src="https://user-images.githubusercontent.com/91378682/173677815-7dcb731b-aac4-49a4-903b-02320f50823e.png">
 
 
